@@ -1,0 +1,72 @@
+
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+.container h2{
+    text-align: center;
+    background-color: rgb(0, 183, 255);
+    border-radius: 5px;
+    margin: 5px;
+    padding: 7px;
+}
+
+.welcome h2{
+  margin: 10px;
+  padding: 5px;
+  text-align: center;
+  background-color: rgba(211, 20, 138, 0.062);
+  border-radius: 10px;
+}
+
+.welcome h2:hover{
+  transform: scale(1.01);
+  background-color: rgba(0, 255, 13, 0.144);
+}
+h3{
+  margin: 28px;
+  padding: 5px;
+  text-align: center;
+  background-color: rgba(240, 169, 15, 0.295);
+  border-radius: 10px;
+}
+
+h3:hover{
+  transform: scale(1.01);
+  background-color: rgba(111, 0, 255, 0.164);
+}
+
+#hover1{
+  width: 200px;
+  font-weight:bolder;
+   background-color: rgba(144, 211, 20, 0.219);
+   border-radius: 5px;
+   text-align: center;
+   height: 100px;
+   line-height: 100px;
+ 
+   
+}
+#hover1:hover{
+  transform: scale(1.1);
+  background-color: rgba(0, 140, 255, 0.507);
+
+}
+#hover2{
+  width: 200px;
+  font-weight:bolder;
+  background-color:rgba(20, 182, 211, 0.829);
+  border-radius: 5px;
+  text-align: center;
+  height: 100px;
+  line-height: 100px;
+
+}
+#hover2:hover{
+  transform: scale(1.1);
+  background-color: rgba(255, 166, 0, 0.425);
+}
+
+.form-control{
+  height: 40px;
+  width: 250px;
+}
