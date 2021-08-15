@@ -12,9 +12,8 @@ PHP
 The editor used is VS code.
 
 I would like to thank The Spark Foundation for giving me this opportunity to improve my skills.
-Youtube link: https://youtu.be/iTf5nW7kt7E
 
 From:
-Vishwajeeth P
+Manikandan K
 
-#thesparksfoundation #GRIPMAY21 #webdevelopment #internship #intern2021 #mernstackdeveloper #github
+#thesparksfoundation #GRIPAugust21 #webdevelopment #internship #intern2021 #mernstackdeveloper #github
